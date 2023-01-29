@@ -1,0 +1,30 @@
+.mainDivTimer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items:center;
+}
+
+.progress {
+    text-align: left;
+    color: #4685bd;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+
+.timer{
+    text-align: center;
+    background-color: #f2dede;
+    color: #b15856;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.img{
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 2px;
+    padding-left: 10px;
+}

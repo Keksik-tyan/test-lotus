@@ -1,0 +1,45 @@
+button {
+  margin: 10px;
+  font-size: 14px;
+  min-width: 100px;
+  border-radius: 5px;
+  background-color: #e0e0e0;
+  border: none;
+  cursor: pointer;
+  text-transform: uppercase;
+  padding: 16px 16px;
+}
+
+.default {
+    background-color: #e0e0e0;
+    color: #202120;
+    font-weight: bold;
+  }
+
+.default:hover{    
+    text-decoration: none;
+    background-color: rgba(224, 224, 224, 0.736)
+  }
+
+.primary {
+  background-color: #91cbf9;
+  color: #202120;
+  font-weight: bold;
+}
+
+.primary:hover{    
+    text-decoration: none;
+    background-color: rgba(129, 182, 225, 0.747);
+  }
+
+.simple {
+    background-color:white;
+    color: #202120;
+    font-weight: bold;
+}
+
+  .simple:hover{    
+    text-decoration: none;
+    background-color: rgba(224, 224, 224, 0.736)
+  }
+
